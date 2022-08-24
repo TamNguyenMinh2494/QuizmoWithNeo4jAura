@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "port": 8080,
+  "uri": "neo4j+s://fb30e4d0.databases.neo4j.io",
+  "username": "neo4j",
+  "password": "kD_Gd5Sqv8lWBhJv1rIYn9NN9z-tAxyxWJ2IQHznx9o",
+  "databaseName": "neo4j"
+}
